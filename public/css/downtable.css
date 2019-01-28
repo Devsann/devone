@@ -1,0 +1,30 @@
+h2 {
+    text-align: center;
+}
+
+.mi5table table{
+    font-family: 'Zawgyi-One', sans-serif;
+}
+
+.mi5table h4{
+    color: white;
+}
+table{
+    overflow-x: scroll;
+}
+
+@media screen and (max-width: 767px) {
+    table caption {
+        border-bottom: 1px solid #ddd;
+    }
+}
+
+.p {
+    text-align: center;
+    padding-top: 140px;
+    font-size: 14px;
+}
+.csstable th{
+    text-align: center;
+    vertical-align: middle;
+}
